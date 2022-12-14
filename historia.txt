@@ -1,0 +1,5 @@
+Esta es la historia de como aprendí
+
+git y github 
+
+Pablo Garrido diciembre 2022
